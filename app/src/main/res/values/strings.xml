@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Blood Group Predictor</string>
+
+    <string name="discover_the_secrets_of_blood_inheritance">Discover the Secrets of Blood Inheritance</string>
+    <string name="predict_blood_group_inheritance_easily">Predict Blood Group Inheritance Easily</string>
+    <string name="your_genetic_blood_group_companion">Your Genetic Blood Group Companion</string>
+    <string name="get_started">Get Started</string>
+    <string name="fact_will_load_here">Fact will load here...</string>
+
+    <string-array name="blood_group_abo">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+</resources>
